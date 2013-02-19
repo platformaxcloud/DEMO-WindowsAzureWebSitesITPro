@@ -11,8 +11,6 @@ In this demo, we will create a Web site from the Windows Azure portal, and start
 
 This is an example of Platform as a Service (PaaS).
 
->Note: WebMatrix is already installed inside the DC01 VM. So if you connect to the Azure portal from within the DC01, you do not have to wait for the download and installation of the WebMatrix tool in the steps below. If you run the demo from another computer, you may be prompted to download and install WebMatrix if it is not installed yet.	
-
 <a name="Demo 1: Creating your first Windows Azure Web Site" />
 ## Demo 1: Creating your first Windows Azure Web Site ##
 
