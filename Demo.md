@@ -139,6 +139,7 @@ In the demo, we will use the **Photo Gallery** template.
 	> The files are copied to the Web site.
 
 1. When the publishing is completed, in the WebMatrix notification bar, click the URL to the Web site **http://demo-NNNN.azure websites.net**
+
 	![Publishing Complete](./images/Publishing-Complete.png?raw=true "Publishing Complete")
 
 	![Verifying Web Site](./images/Verifying-Web-Site.png?raw=true "Verifying Web Site")
