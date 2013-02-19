@@ -59,7 +59,7 @@ This is an example of Platform as a Service (PaaS).
 
 	> Notice how quickly the new Web site is provisioned. Usually this only takes a few seconds. The reason for the quick provisioning is that Azure has pre-started Web sites in the datacenter already.
 
-1. In the Web sites window, click on the link to **http://demo-NNNN.azurewebsites.net.**
+1. In the Web sites window, click on the link to **[http://demo-NNNN.azurewebsites.net]().**
 
 	![Verifying-Web-Site-Creation](images/Verifying-Web-Site-Creation.png?raw=true "Verifying Web Site Creation")
 
@@ -71,8 +71,7 @@ This is an example of Platform as a Service (PaaS).
 
 	> You can use several methods to copy your site content to the new Web site, including **FTP**, **GIT**, **Team Foundation Service**, or development tools such as **Visual Studio** or **WebMatrix**. For the demo, we use WebMatrix.
 
-1. Close the **http://demo-NNNN.azurewebsites.
-net** browser window. In the Azure portal, select the **Demo-NNNN** Web Site, and then on the toolbar, click the **WebMatrix** icon.
+1. Close the **[http://demo-NNNN.azurewebsites.net]()** browser window. In the Azure portal, select the **Demo-NNNN** Web Site, and then on the toolbar, click the **WebMatrix** icon.
 
 	![Installing Web Matrix](./images/Installing-Web-Matrix.png?raw=true "Installing Web Matrix")
 
@@ -135,7 +134,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	> The files are copied to the Web site.
 
-1. When the publishing is completed, in the WebMatrix notification bar, click the URL to the Web site **http://demo-NNNN.azure websites.net**
+1. When the publishing is completed, in the WebMatrix notification bar, click the URL to the Web site **[http://demo-NNNN.azurewebsites.net]()**
 
 	![Publishing Complete](./images/Publishing-Complete.png?raw=true "Publishing Complete")
 
