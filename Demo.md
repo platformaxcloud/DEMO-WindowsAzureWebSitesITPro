@@ -18,7 +18,7 @@ This is an example of Platform as a Service (PaaS).
 
 	![New Web Site Button](./images/New-Web-Site-Button.png?raw=true "New Web Site Button")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> In this demo, we will create a new Web site, and use WebMatrix to deploy an application to that Web site.
 
@@ -31,19 +31,17 @@ This is an example of Platform as a Service (PaaS).
 
 	![Quick Create](./images/Quick-Create.png?raw=true "Quick Create")
 
-
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> We use the Quick Create option to quickly create a new Web site.
 
 1. In the **URL** text box, type **Demo-NNNN**.
 
-	> Note: The Web site URL must be unique within <name>.azurewebsites.net. Pick a four-digit number for NNNN that is not in use yet. If the green check mark does not appear, use a different number.
-
+	> **Note:** The Web site URL must be unique within <name>.azurewebsites.net. Pick a four-digit number for NNNN that is not in use yet. If the green check mark does not appear, use a different number.
 
 	![Web Site URL Dialog](./images/Web-Site-URL-Dialog.png?raw=true "Web Site URL Dialog")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 	
 	> We pick a unique name for our new Web site. The URL needs to be unique within **<name>.azurewebsites.net**.
 
@@ -55,20 +53,19 @@ This is an example of Platform as a Service (PaaS).
 
 	![Creating a Web Site](./images/Creating-a-Web-Site.png?raw=true "Creating a Web Site")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 	
 	> Azure will create a new Web site.
 
 	> Notice how quickly the new Web site is provisioned. Usually this only takes a few seconds. The reason for the quick provisioning is that Azure has pre-started Web sites in the datacenter already.
 
-1. In the Web sites window, click on the link to **http://demo-NNNN.azurewebsites.
-net.**
+1. In the Web sites window, click on the link to **http://demo-NNNN.azurewebsites.net.**
 
 	![Verifying-Web-Site-Creation](images/Verifying-Web-Site-Creation.png?raw=true "Verifying Web Site Creation")
 
 	![Web-Site-Created-Dialog](images/Web-Site-Created-Dialog.png?raw=true "Web Site Created Dialog")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 	
 	> The new Web site is up and running, but does not contain any content yet.
 
@@ -79,7 +76,7 @@ net** browser window. In the Azure portal, select the **Demo-NNNN** Web Site, an
 
 	![Installing Web Matrix](./images/Installing-Web-Matrix.png?raw=true "Installing Web Matrix")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> In the demo environment, WebMatrix is already installed. Otherwise you are prompted to download and install WebMatrix first.
 
@@ -96,7 +93,7 @@ net** browser window. In the Azure portal, select the **Demo-NNNN** Web Site, an
 
 	![Installing pre-built templates](./images/Installing-pre-built-templates.png?raw=true "Installing pre-built templates")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> WebMatrix contains several pre-built templates to get started quickly with your new Web site.
 
@@ -107,7 +104,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Choosing Photo Gallery Template](./images/Choosing-Photo-Gallery-Template.png?raw=true "Choosing Photo Gallery Template")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> WebMatrix will download all the files related to the Photo Gallery template, and load the files in WebMatrix.
 
@@ -115,7 +112,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Ading Files to Template](./images/Ading-Files-to-Template.png?raw=true "Ading Files to Template")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> WebMatrix has four workspaces to customize and configure your new application: Site, Files, Databases and Reports.
 	
@@ -125,7 +122,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Publishing a Web Site](./images/Publishing-a-Web-Site.png?raw=true "Publishing a Web Site")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> To run the application files from our new Web site, WebMatrix will upload all the needed files to the Demo-NNNN Web site.
 
@@ -134,7 +131,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Copying Files to Web Site](./images/Copying-Files-to-Web-Site.png?raw=true "Copying Files to Web Site")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> The files are copied to the Web site.
 
@@ -144,7 +141,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Verifying Web Site](./images/Verifying-Web-Site.png?raw=true "Verifying Web Site")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> The Photo Gallery site opens.
 
@@ -154,7 +151,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Viewing Web Site Dashboard](./images/Viewing-Web-Site-Dashboard.png?raw=true "Viewing Web Site Dashboard")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> Now let’s do a quick check of what’s going on under the hood here with this Website that is running as a PaaS instance.
 
@@ -166,7 +163,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Changing Web Site Scale Mode](./images/Changing-Web-Site-Scale-Mode.png?raw=true "Changing Web Site Scale Mode")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> Here we can see that we have the ability to change the website mode from Free to Shared or Reserved.
 
@@ -178,7 +175,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Changing Web Site Scale Mode](./images/image-0.png?raw=true "Changing Web Site Scale Mode")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> Now let’s increase the instance count.  As you can see this is a big advantage over PaaS since you can’t simply increase the # of identical VMs to scale a service in this manner.
 
@@ -186,7 +183,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Upscaling Instace Count](./images/Upscaling-Instace-Count.png?raw=true "Upscaling Instace Count")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> Now let’s increase the instance count.  As you can see this is a big advantage over PaaS since you can’t simply increase the # of identical VMs to scale a service in this manner.
 
@@ -194,9 +191,6 @@ In the demo, we will use the **Photo Gallery** template.
 
 	![Downscaling Web Site Mode](./images/Downscaling-Web-Site-Mode.png?raw=true "Downscaling Web Site Mode")
 
-	>**Speaking Point:**
+	> **Speaking Point:**
 
 	> Likewise, we can scale the site back down to Free mode quickly to avoid any charges.
-
-
-
