@@ -1,4 +1,4 @@
-<a name="title" />
+﻿<a name="title" />
 #Windows Azure Web Sites (PaaS)#
 
 ---
@@ -170,7 +170,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	> You’ll also notice you have the ability to choose from a number of options with the # of cores and size of memory.  We’ll stick with the default of **Small**.
 
-1. Click **Save, **click **Yes** to upgrade, and show in the details how this was upgraded.
+1. Click **Save**, click **Yes** to upgrade, and show in the details how this was upgraded.
 
 	![Changing Web Site Scale Mode](./images/image-0.png?raw=true "Changing Web Site Scale Mode")
 
@@ -182,7 +182,7 @@ In the demo, we will use the **Photo Gallery** template.
 
 	> Now let’s increase the instance count.  As you can see this is a big advantage over IaaS since you can’t simply increase the # of identical VMs to scale a service in this manner.
 
-1. On the Scale tab, change the Web site Mode back to **Free**, click **Save, and  **click **Yes** to downgrade.
+1. On the Scale tab, change the Web site Mode back to **Free**, click **Save**, and click **Yes** to downgrade.
 
 	![Downscaling Web Site Mode](./images/Downscaling-Web-Site-Mode.png?raw=true "Downscaling Web Site Mode")
 
